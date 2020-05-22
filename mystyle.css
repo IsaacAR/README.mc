@@ -1,0 +1,23 @@
+#evaluation
+   color: #ffffe6;
+   text-align: center;
+   font-size: 30px;
+}
+h1 {
+   color: #f1cfcf;
+   text-align: center;
+   font-size: 40px
+}
+#filetypes {
+   color: #ffffe6;
+   text-align: center;
+   font-size: 30px;
+}
+p {
+  text-align: justify;
+  font-size: 25px;
+}
+a:link {
+  background-color: #eea65d;
+  text-align: center;
+}
